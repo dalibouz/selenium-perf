@@ -86,5 +86,3 @@ The next feature I have in mind is to **consolidate all of it in one place and a
 - **Monitor your load generator.** Otherwise you can't trust your response times.
 - **Make tests repeatable.** One YAML file per test turns load testing into a routine.
 - **Look at percentiles.** The p90 tells the truth that the average hides.
-
-Have you used real browsers for load testing, or do you stick to protocol-level tools? I'd love to hear what worked for you.
